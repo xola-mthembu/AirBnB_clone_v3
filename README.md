@@ -158,5 +158,18 @@ Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twit
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
 
 Second part of Airbnb: Joann Vuong
+
+## Authors
+Xola Mthembu - [Github](https://https://github.com/xola-mthembu) / [X](https://x.com/MthembuXola)
+Sihle Mtshali - [Github](https://github.com/SIHLE-MTSHALI)
+
+## Description
+This project implements a RESTful API for the AirBnB clone, enabling CRUD operations on various objects like User, State, City, Place, and Amenity.
+
+## Usage
+- Clone the repository
+- Install requirements: `pip install -r requirements.txt`
+- Run the application: `HBNB_API_HOST=0.0.0.0 HBNB_API_PORT=5000 python3 -m api.v1.app`
+
 ## License
 Public Domain. No copy write protection. 
